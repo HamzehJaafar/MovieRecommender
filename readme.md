@@ -1,7 +1,7 @@
-#Project is completed using NodeJS, HTML, and JavaScript.
+Project is completed using NodeJS, HTML, and JavaScript.
 
 
-#Files:
+# Files:
 
 Server.js - NodeJS server, used for writing content to disk. (eg, matrix.txt, users.json)
 index.html - Main login screen
@@ -14,19 +14,19 @@ In simMatrix(): I created a simularity matrix by finding the cosim of each user 
 In predict(): I returned the top 5 predictions a user may enjoy based on his ratings
 
 
-#Input:
+## Input:
 
 movies.csv - Used for movie title names
 users.json - List of existing users I generated through testing.
 
-#Output: 
+## Output: 
 
 matrix.txt - Simularity Matrix generated for predictions.
 users.json - Any update to user information / ratings.
 
 predictions are also outputed on the webapp accordingly.
 
-#How to run:
+## How to run:
 Download & Install NodeJS.
 
 Extract files to folder and run the following command in terminal / cmd when you're inside the folder:
