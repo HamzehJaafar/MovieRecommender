@@ -1,6 +1,6 @@
 # Movie Recommender
 
-Project is developed using NodeJS, JavaScript, and HTML.
+Project is developed using NodeJS, JavaScript, and HTML along with user-based Collaborative Filtering prediction model.
 
 # Files:
 
