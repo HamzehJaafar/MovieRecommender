@@ -31,7 +31,9 @@ predictions are also outputed on the webapp accordingly.
 Download & Install NodeJS.
 
 Extract files to folder and run the following command in terminal / cmd when you're inside the folder:
+
 > npm install 
+
 > node server.js
 
 Go to http://localhost:8080/index.html 
