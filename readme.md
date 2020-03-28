@@ -1,5 +1,6 @@
-Project is completed using NodeJS, HTML, and JavaScript.
+# Movie Recommender
 
+Project is completed using NodeJS, HTML, and JavaScript.
 
 # Files:
 
