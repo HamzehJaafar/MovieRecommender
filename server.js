@@ -63,6 +63,6 @@ http.createServer(function (req, res) {
 }).listen(8080);
 
 
-console.log('Listening at: localhost:8080');
+console.log('Listening at: localhost:8080/index.html');
 
 
