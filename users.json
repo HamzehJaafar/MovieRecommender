@@ -1,0 +1,27 @@
+{
+	"Anne": {
+		"Book1": 2,
+		"Book2": 3,
+		"Book3": 5,
+		"Book4": 4
+	},
+	"Bob": {
+		"Book1": 3,
+		"Book2": 4,
+		"Book4": 5,
+		"Book5": 5
+	},
+	"Carol": {
+		"Book1": 5,
+		"Book2": 4,
+		"Book3": 2,
+		"Book5": 3
+	},
+	"Dave": {
+		"Book1": 4,
+		"Book2": 2,
+		"Book3": 2,
+		"Book4": 4,
+		"Book5": 5
+	}
+}
