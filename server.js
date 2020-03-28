@@ -15,7 +15,7 @@ http.createServer(function (req, res) {
       body += data
     })
     req.on('end', function() {
-	  fs.writeFile('users.json', body, 'utf8', function (err) { 
+	  fs.writeFile('input/users.json', body, 'utf8', function (err) { 
                         if (err)
         console.log(err);
                         else
@@ -33,7 +33,7 @@ http.createServer(function (req, res) {
       body += data
     })
 	req.on('end', function() {
-	  fs.writeFile('matrix.txt', body, 'utf8', function (err) { 
+	  fs.writeFile('output/matrix.txt', body, 'utf8', function (err) { 
                         if (err)
         console.log(err);
                         else

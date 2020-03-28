@@ -18,7 +18,7 @@ var xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange = function() {
 	processCSVContents(xhttp);
 };
-xhttp.open("GET", "movies.csv", true);
+xhttp.open("GET", "input/movies.csv", true);
 xhttp.send();
 
 
@@ -29,7 +29,7 @@ xmlhttp.onreadystatechange = function() {
     window.users = JSON.parse(this.responseText);
   }
 };
-xmlhttp.open("GET", "users.json", true);
+xmlhttp.open("GET", "input/users.json", true);
 xmlhttp.send();
 
 }
